@@ -128,7 +128,7 @@ Author url: https://themeforest.net/user/website_stock
     gap: 18px;
   }
   .navbar .container-fluid .navbar-toggler .toggle-btn {
-    border: 1px solid #0e59f2;
+    border: 1px solid #e0439;
     box-shadow: none;
     outline: 0px;
     color: #fff;
@@ -180,7 +180,7 @@ Author url: https://themeforest.net/user/website_stock
   white-space: nowrap;
 }
 .navbar .container-fluid .navbar-nav .nav-item .nav-link:hover {
-  color: #0e59f2;
+  color: #e0439;
 }
 @media (max-width: 1400px) {
   .navbar .container-fluid .navbar-nav .nav-item .nav-link {
@@ -204,7 +204,7 @@ Author url: https://themeforest.net/user/website_stock
   white-space: nowrap;
 }
 .navbar .container-fluid .navbar-nav .nav-item.dropdown .dropdown-menu a:hover, .navbar .container-fluid .navbar-nav .nav-item.dropdown .dropdown-menu a.active {
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 .navbar .container-fluid .navbar-nav .nav-item.dropdown .nav-link::after {
   border: 0;
@@ -222,7 +222,7 @@ Author url: https://themeforest.net/user/website_stock
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   -o-border-radius: 0px;
-  background-color: #0e59f2;
+  background-color: #e0439;
   color: #fff;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
@@ -320,7 +320,7 @@ Author url: https://themeforest.net/user/website_stock
   }
 }
 .offcanvas .offcanvas-close {
-  color: #0e59f2;
+  color: #e0439;
 }
 .offcanvas .navbar-nav {
   align-items: flex-start;
@@ -349,7 +349,7 @@ Author url: https://themeforest.net/user/website_stock
 .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu {
   position: absolute;
   left: 0;
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu a {
   color: #fff;
@@ -362,7 +362,7 @@ Author url: https://themeforest.net/user/website_stock
   padding: 0 10px;
 }
 .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu a:hover, .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu a.active {
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 .offcanvas .navbar-nav .nav-item.dropdown .nav-link {
   color: #fff;
@@ -379,7 +379,7 @@ Author url: https://themeforest.net/user/website_stock
   content: "\f078";
 }
 .offcanvas .button {
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 @media screen and (max-width: 1199px) {
   .offcanvas .button {
@@ -403,7 +403,7 @@ Author url: https://themeforest.net/user/website_stock
 }
 .search-modal .form-control {
   box-shadow: none;
-  border-color: #0e59f2;
+  border-color: #e0439;
   color: #1d2229;
   font-family: "Work Sans", sans-serif;
   font-weight: 400;
@@ -411,7 +411,7 @@ Author url: https://themeforest.net/user/website_stock
   line-height: 21px;
 }
 .search-modal .btn {
-  background-color: #0e59f2;
+  background-color: #e0439;
   color: #fff;
   font-family: "Work Sans", sans-serif;
   font-weight: 400;
@@ -420,9 +420,9 @@ Author url: https://themeforest.net/user/website_stock
 }
 
 .button::before, .button::after {
-  border-color: #0e59f2;
+  border-color: #e0439;
 }
 .button:hover {
   background-color: transparent;
-  color: #0e59f2;
+  color: #e0439;
 }/*# sourceMappingURL=nav-2.css.map */

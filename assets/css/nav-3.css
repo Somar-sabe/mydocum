@@ -440,7 +440,7 @@ Author url: https://themeforest.net/user/website_stock
   }
 }
 .offcanvas .offcanvas-close {
-  color: #0e59f2;
+  color: #e0439;
 }
 .offcanvas .navbar-nav {
   align-items: flex-start;
@@ -469,7 +469,7 @@ Author url: https://themeforest.net/user/website_stock
 .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu {
   position: absolute;
   left: 0;
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu a {
   color: #fff;
@@ -482,7 +482,7 @@ Author url: https://themeforest.net/user/website_stock
   padding: 0 10px;
 }
 .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu a:hover, .offcanvas .navbar-nav .nav-item.dropdown .dropdown-menu a.active {
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 .offcanvas .navbar-nav .nav-item.dropdown .nav-link {
   color: #fff;
@@ -499,7 +499,7 @@ Author url: https://themeforest.net/user/website_stock
   content: "\f078";
 }
 .offcanvas .button {
-  background-color: #0e59f2;
+  background-color: #e0439;
 }
 @media screen and (max-width: 1199px) {
   .offcanvas .button {
